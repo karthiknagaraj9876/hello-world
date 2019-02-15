@@ -1,2 +1,2 @@
 # hello-world
-hello word 
+hello word is the first file i have ever worked on git.
